@@ -1,0 +1,12 @@
+.lit{
+  font-size: 28px;
+  font-family: Helvetica
+}
+
+#ship{
+  color: white;
+  background-color: black;
+}
+#boat{
+  background-color: yellow;
+}
